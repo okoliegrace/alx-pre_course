@@ -1,6 +1,4 @@
 i
 #!/bin/bash
-i
-echo "ALX"
-vi school
+echo "ALX school"
 
